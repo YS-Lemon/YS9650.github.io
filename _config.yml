@@ -57,13 +57,13 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: yunmenglakes
+# disqus_username: yunmenglakes
 
 # Gitalk
 gitalk:
   enable: true     #false  #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 8ad8676f1e6971ad8e16                            #生成的clientID
+  clientSecret: 73ef70e01d8a9bcc4c5b45105c7d80770a7d7fea    #生成的clientSecret
   repo: yun-mengLakes.github.io    #仓库名称
   owner: yun-mengLakes    #github用户名
   admin: yun-mengLakes
