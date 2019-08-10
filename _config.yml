@@ -1,6 +1,17 @@
 # Site settings
 title: RK Lake
 SEOTitle: 云梦泽的博客 | Home Page
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145409819-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145409819-1');
+</script>
+
 header-img: img/post-bg-desk.jpg
 email: r2235114571@gmail.com
 description: "Every failure is leading towards success."
