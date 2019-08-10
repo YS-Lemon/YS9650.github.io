@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true       #是否开启Gitalk评论
+  enable: false       #是否开启Gitalk评论
   clientID: 8ad8676f1e6971ad8e16                            #生成的clientID
   clientSecret: 73ef70e01d8a9bcc4c5b45105c7d80770a7d7fea    #生成的clientSecret
   repo: Yun-mengLakes.github.io    #仓库名称
   owner: Yun-mengLakes    #github用户名
-  admin: yun mengLakes
+  admin: Yun-mengLakes
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
